@@ -1,52 +1,40 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Final Project - *Studio Ghibli Fan Hub*
 
-Submitted by: **Your Name Here**
+Submitted by: **Y Banh**
 
-This web app: **insert description**
+This web app: **allows you to post thread with title, content and pictures of Ghibli Studio-related stuff**
 
-Time spent: **X** hours spent in total
+Time spent: **13** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **A create form allows users to add new cremates**
-- [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
-- [x] **The site displays a summary page of all the user's added crewmates**
-- [x] **A previously created crewmate can be updated from the crewmate list**
-- [x] **A previously created crewmate can be deleted from the crewmate list**
-- [ ] **Each crewmate has a direct, unique link to an info page about them**
-
-The following **optional** features are implemented:
-
-- [ ] A crewmate can be given a category upon creation which restricts their attributes
-- [ ] The site displays summary statistics about a user's crew on their crew page 
-- [ ] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
+- [x] **A create form that allows the user to create posts**
+- [x] **Posts have a title and optionally additional textual content and/or an image added as an external image URL**
+- [x] **A home feed displaying previously created posts**
+- [x] **By default, the time created, title, and number of upvotes for each post is shown on the feed**
+- [x] **Clicking on a post shall direct the user to a new page for the selected post**
+- [x] **Users can sort posts by either their created time or upvotes count**
+- [x] **Users can search for posts by title**
+- [x] **A separate post page for each created post, where any additional information is shown is linked whenever a user clicks a post**
+- [x] **Users can leave comments underneath a post on the post's separate page**
+- [x] **Each post should have an upvote button on the post's page. Each click increases its upvotes count by one and users can upvote any number of times**
+- [x] **A previously created post can be edited or deleted from its post page**
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+https://www.loom.com/share/ec28eb347a714710b13cac7c505a333b?sid=923017ab-2ade-4dc2-91b0-4e6d7819124e
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Thie lab really involved everything that we have learn since the beginning of the codepath journey. Since the project involve so many knowledge nested together I was having a lot of issues where when some of the features works perfectly but if I change a minor thing to make another features for some reason the previous one got messed up. And since it was the finals week of my school it was also difficult navigating between doing project and study for finals. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Y Banh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
