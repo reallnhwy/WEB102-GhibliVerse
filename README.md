@@ -30,7 +30,7 @@ https://www.loom.com/share/ec28eb347a714710b13cac7c505a333b?sid=923017ab-2ade-4d
 
 ## Notes
 
-Thie lab really involved everything that we have learn since the beginning of the codepath journey. Since the project involve so many knowledge nested together I was having a lot of issues where when some of the features works perfectly but if I change a minor thing to make another features for some reason the previous one got messed up. And since it was the finals week of my school it was also difficult navigating between doing project and study for finals. 
+The lab really involved everything that we have learn since the beginning of the codepath journey. Since the project involve so many knowledge nested together I was having a lot of issues where when some of the features works perfectly but if I change a minor thing to make another features for some reason the previous one got messed up. And since it was the finals week of my school it was also difficult navigating between doing project and study for finals. 
 
 ## License
 
