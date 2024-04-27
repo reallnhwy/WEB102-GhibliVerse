@@ -1,0 +1,85 @@
+.Post {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    width: 1000px; /* Set the desired fixed width */
+    color: #313131;
+}
+
+.Post h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.Post p {
+    margin-top: 0px;
+    text-align: left;
+}
+
+.ImageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.Post img {
+    max-width: 50%;
+    border-radius: 8px;
+    align-self: center;
+}
+
+.post-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1000px;
+}
+
+.info-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto; /* Push the link to the right edge */
+}
+
+.info-link img {
+    width: 30px;
+}
+ 
+.VoteSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.VoteSection span {
+    color: #333;
+    margin-left: 1em;
+}
+
+.VoteSection img {
+    width: 3em;
+}
+
+.post-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1000px;
+    margin-top: 2em;
+}
+
+.time {
+    font-size: 10px; /* Adjust the font size as needed */
+    color: #5c5c5c; /* Optional: Add color to make it less prominent */
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+  }
+  
+  

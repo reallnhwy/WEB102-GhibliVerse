@@ -1,0 +1,89 @@
+.Info {
+    background-color: #fff; /* White background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+    padding: 20px; /* Padding inside the container */
+    margin: 20px auto; /* Center the container horizontally */
+    max-width: 900px; /* Maximum width of the container */
+    margin-top: 2.5em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 1000px;
+    color: #313131; /* Paragraph color */
+}
+
+.Info h3 {
+    margin-top: 0; /* Remove top margin */
+    font-size: 24px; /* Title font size */
+    color: #333; /* Title color */
+    margin-bottom: 0;;
+}
+
+.Info p {
+
+    text-align: left;
+}
+
+.Info img {
+    max-width: 90%; /* Ensure the image fits within the container */
+    border-radius: 8px; /* Rounded corners for the image */
+    margin-top: 20px; /* Space between content and image */
+}
+
+.time {
+    font-size: 10px; /* Adjust the font size as needed */
+    color: #5c5c5c; /* Optional: Add color to make it less prominent */
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.ImageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.comment-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.comment-form input {
+    border-radius: 8px;
+    width: 100%; /* Adjust width as needed */
+    height: 36px; /* Adjust height as needed */
+    padding: 8px 12px; /* Adjust padding as needed */
+    margin-right: 10px; /* Add margin-right to create space between input and button */
+}
+
+
+.comment-form button {
+    padding: 8px 16px; /* Adjust padding as needed */
+    font-size: 14px; /* Adjust font size as needed */
+}
+
+
+
+.comments {
+    margin-bottom: 2em;
+    width: 100%;
+  }
+
+.comment {
+    border-radius: 5px;
+    background-color: #fafafa; /* Slightly grey background color */
+    padding: 10px;
+    margin-bottom: 10px; /* Adjust margin as needed */;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }

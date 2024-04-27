@@ -1,0 +1,44 @@
+.CreatePost {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 500px;
+}
+
+.CreatePost form {
+    display: flex;
+    flex-direction: column;
+}
+
+.CreatePost h2 {
+    color: #608070;
+}
+
+.CreatePost label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.CreatePost input {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.CreatePost button {
+    background-color: #A4C5F6 ;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.CreatePost button:hover {
+    background-color: #608070;
+}

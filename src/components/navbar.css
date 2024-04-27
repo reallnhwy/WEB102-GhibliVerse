@@ -1,0 +1,41 @@
+.Nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 90%;
+    background-color: #A4C5E6;
+    color: #fff;
+    padding: 10px 90px; /* Increased padding */
+    display: flex; /* Make the Nav flex container */
+    justify-content: space-between; /* Distribute items evenly */
+    align-items: center; /* Center items vertically */
+    z-index: 1000; /* Ensure it's on top of other content */
+}
+
+.left {
+    justify-content: flex-start;
+}
+.left > * {
+    color: #fff;
+    text-decoration: none;
+}
+.left > *:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.right {
+    justify-content: flex-end;
+    text-decoration: none;
+    color: #fff;
+}
+
+.right > * {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.right > *:hover {
+    color: #ccc;
+}
